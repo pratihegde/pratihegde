@@ -1,13 +1,13 @@
 ### <div align="center">I'm Prathiksha Hegde, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on Machine Learning  
+-  
   
 
-- 🌱 I’m currently learning Node js and C++  
+- 🌱 I’m currently learning Node js 
   
 
-- ❓ Ask me about anything related to Angular stack and related technologies  
+- 
   
 
 <br/>  
